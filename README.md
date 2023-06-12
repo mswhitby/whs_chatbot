@@ -1,4 +1,4 @@
 # whs_chatbot
 
-[CodeSpace](https://prod.liveshare.vsengsaas.visualstudio.com/join?CBD03BA6564C9A968DF353D82235F4CB3AF2)
+[CodeSpace](https://prod.liveshare.vsengsaas.visualstudio.com/join?06898F4AC4C85A7FE6F7F1248283820DC8A8)
 
